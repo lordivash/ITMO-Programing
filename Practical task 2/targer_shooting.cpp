@@ -24,7 +24,7 @@ int main() {
 	}
 	cout << "Points = " << s << endl;
 	
-	// Звание зависит от среднего арифмитического очков
+	// Rank dependes on average point
 	if (s / n >= 7) {
 		cout << "Sniper";
 	}
